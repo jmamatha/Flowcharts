@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-31T07:20:34.336Z" agent="5.0 (Windows)" etag="l2URcUUI-21h4hHl3rFr" version="16.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-31T07:21:45.526Z" agent="5.0 (Windows)" etag="PxkxjwR-gXF1VX3T8Sfb" version="16.5.2" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1102" dy="499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -79,6 +79,17 @@
         <mxCell id="vAYMN_3iiynGH2o6AuxC-41" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.message;pointerEvents=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1110" y="240" width="30" height="17.5" as="geometry" />
         </mxCell>
+        <mxCell id="OPBIDVYJUWWTdFcq95ZD-0" value="30min Once" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="170" y="260" width="80" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="MwcLFf6S3zZuR-qtZwKd" name="Page-2">
+    <mxGraphModel dx="1102" dy="499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="v_VfKXC5PPhYZUMVRPRB-0" />
+        <mxCell id="v_VfKXC5PPhYZUMVRPRB-1" parent="v_VfKXC5PPhYZUMVRPRB-0" />
       </root>
     </mxGraphModel>
   </diagram>
